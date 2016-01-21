@@ -1,4 +1,4 @@
-.h2 How to build/run?
+## How to build/run?
 
 ```
 git clone git@github.com:yogendra/sample-r-project sample-r-project
