@@ -1,0 +1,10 @@
+1     ABCD         ds1.google.com
+1     ABCD         ds2.google.com
+1     ABCD         ds3.google.com
+1     ABCD         ds4.google.com
+1     ABCD         ds5.google.com
+1     ABCD         ds6.google.com
+1     ABCD         ds7.google.com
+1     ABCD         ds8.google.com
+1     ABCD         ds9.google.com
+1     ABCD         ds0.google.com
